@@ -1,0 +1,3 @@
+/home/gamjun/Downloads/A-Very-Simple-Pattern-Recognizer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gamjun/Downloads/A-Very-Simple-Pattern-Recognizer/cmake-build-debug/CMakeFiles/PID.dir
+/home/gamjun/Downloads/A-Very-Simple-Pattern-Recognizer/cmake-build-debug/CMakeFiles/edit_cache.dir

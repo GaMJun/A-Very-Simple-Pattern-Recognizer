@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/PID.dir/main.cpp.o CMakeFiles/PID.dir/Sources/FileManagement/rw_files.cpp.o CMakeFiles/PID.dir/Sources/Filters/filters.cpp.o CMakeFiles/PID.dir/Sources/PatternOccurrencesFinder/pattern_occurrences_finder.cpp.o  -o PID 
