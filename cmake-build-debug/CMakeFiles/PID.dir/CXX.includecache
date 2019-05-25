@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/gamjun/Downloads/A-Very-Simple-Pattern-Recognizer/Sources/FileManagement/rw_files.cpp
+/home/gamjun/Downloads/PID/A-Very-Simple-Pattern-Recognizer/Sources/FileManagement/rw_files.cpp
 fstream
 -
 algorithm
@@ -18,43 +18,43 @@ cstring
 vector
 -
 rw_files.h
-/home/gamjun/Downloads/A-Very-Simple-Pattern-Recognizer/Sources/FileManagement/rw_files.h
+/home/gamjun/Downloads/PID/A-Very-Simple-Pattern-Recognizer/Sources/FileManagement/rw_files.h
 ../Structs/structs.h
-/home/gamjun/Downloads/A-Very-Simple-Pattern-Recognizer/Sources/Structs/structs.h
+/home/gamjun/Downloads/PID/A-Very-Simple-Pattern-Recognizer/Sources/Structs/structs.h
 
-/home/gamjun/Downloads/A-Very-Simple-Pattern-Recognizer/Sources/FileManagement/rw_files.h
+/home/gamjun/Downloads/PID/A-Very-Simple-Pattern-Recognizer/Sources/FileManagement/rw_files.h
 ../Structs/structs.h
-/home/gamjun/Downloads/A-Very-Simple-Pattern-Recognizer/Sources/Structs/structs.h
+/home/gamjun/Downloads/PID/A-Very-Simple-Pattern-Recognizer/Sources/Structs/structs.h
 
-/home/gamjun/Downloads/A-Very-Simple-Pattern-Recognizer/Sources/Filters/filters.cpp
+/home/gamjun/Downloads/PID/A-Very-Simple-Pattern-Recognizer/Sources/Filters/filters.cpp
 iostream
 -
 cstring
 -
 filters.h
-/home/gamjun/Downloads/A-Very-Simple-Pattern-Recognizer/Sources/Filters/filters.h
+/home/gamjun/Downloads/PID/A-Very-Simple-Pattern-Recognizer/Sources/Filters/filters.h
 
-/home/gamjun/Downloads/A-Very-Simple-Pattern-Recognizer/Sources/Filters/filters.h
+/home/gamjun/Downloads/PID/A-Very-Simple-Pattern-Recognizer/Sources/Filters/filters.h
 ../Structs/structs.h
-/home/gamjun/Downloads/A-Very-Simple-Pattern-Recognizer/Sources/Structs/structs.h
+/home/gamjun/Downloads/PID/A-Very-Simple-Pattern-Recognizer/Sources/Structs/structs.h
 
-/home/gamjun/Downloads/A-Very-Simple-Pattern-Recognizer/Sources/PatternOccurrencesFinder/pattern_occurrences_finder.cpp
+/home/gamjun/Downloads/PID/A-Very-Simple-Pattern-Recognizer/Sources/PatternOccurrencesFinder/pattern_occurrences_finder.cpp
 iostream
 -
 pattern_occurrences_finder.h
-/home/gamjun/Downloads/A-Very-Simple-Pattern-Recognizer/Sources/PatternOccurrencesFinder/pattern_occurrences_finder.h
+/home/gamjun/Downloads/PID/A-Very-Simple-Pattern-Recognizer/Sources/PatternOccurrencesFinder/pattern_occurrences_finder.h
 ../Structs/structs.h
-/home/gamjun/Downloads/A-Very-Simple-Pattern-Recognizer/Sources/Structs/structs.h
+/home/gamjun/Downloads/PID/A-Very-Simple-Pattern-Recognizer/Sources/Structs/structs.h
 
-/home/gamjun/Downloads/A-Very-Simple-Pattern-Recognizer/Sources/PatternOccurrencesFinder/pattern_occurrences_finder.h
+/home/gamjun/Downloads/PID/A-Very-Simple-Pattern-Recognizer/Sources/PatternOccurrencesFinder/pattern_occurrences_finder.h
 ../Structs/structs.h
-/home/gamjun/Downloads/A-Very-Simple-Pattern-Recognizer/Sources/Structs/structs.h
+/home/gamjun/Downloads/PID/A-Very-Simple-Pattern-Recognizer/Sources/Structs/structs.h
 
-/home/gamjun/Downloads/A-Very-Simple-Pattern-Recognizer/Sources/Structs/structs.h
+/home/gamjun/Downloads/PID/A-Very-Simple-Pattern-Recognizer/Sources/Structs/structs.h
 vector
 -
 
-/home/gamjun/Downloads/A-Very-Simple-Pattern-Recognizer/main.cpp
+/home/gamjun/Downloads/PID/A-Very-Simple-Pattern-Recognizer/main.cpp
 iostream
 -
 fstream
@@ -70,11 +70,11 @@ ctime
 iomanip
 -
 Sources/FileManagement/rw_files.h
-/home/gamjun/Downloads/A-Very-Simple-Pattern-Recognizer/Sources/FileManagement/rw_files.h
+/home/gamjun/Downloads/PID/A-Very-Simple-Pattern-Recognizer/Sources/FileManagement/rw_files.h
 Sources/Structs/structs.h
-/home/gamjun/Downloads/A-Very-Simple-Pattern-Recognizer/Sources/Structs/structs.h
+/home/gamjun/Downloads/PID/A-Very-Simple-Pattern-Recognizer/Sources/Structs/structs.h
 Sources/Filters/filters.h
-/home/gamjun/Downloads/A-Very-Simple-Pattern-Recognizer/Sources/Filters/filters.h
+/home/gamjun/Downloads/PID/A-Very-Simple-Pattern-Recognizer/Sources/Filters/filters.h
 Sources/PatternOccurrencesFinder/pattern_occurrences_finder.h
-/home/gamjun/Downloads/A-Very-Simple-Pattern-Recognizer/Sources/PatternOccurrencesFinder/pattern_occurrences_finder.h
+/home/gamjun/Downloads/PID/A-Very-Simple-Pattern-Recognizer/Sources/PatternOccurrencesFinder/pattern_occurrences_finder.h
 
